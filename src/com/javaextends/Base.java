@@ -1,6 +1,6 @@
 package com.javaextends;
 
-public class Baseclass {
+public class Base {
     String name;
 
     public String getName() {
